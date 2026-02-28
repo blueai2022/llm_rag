@@ -1,0 +1,42 @@
+# Cardiology Prior Authorization Rules
+
+## Echocardiography (CPT 93306, 93307, 93308)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Clinical indication (chest pain, murmur, dyspnea, etc.)
+- Recent EKG results
+- Relevant medical history (HTN, DM, CAD)
+**Review Time:** 2-3 business days
+**Valid For:** 90 days from approval
+
+## Cardiac Catheterization (CPT 93454, 93455, 93456)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Abnormal stress test or imaging results
+- Failed medical management documentation
+- Risk assessment scores
+- Recent lipid panel and renal function
+**Review Time:** 3-5 business days
+**Valid For:** 60 days from approval
+
+## EKG/Electrocardiogram (CPT 93000, 93005, 93010)
+**Preauth Required:** No
+**Notes:** Routine diagnostic EKG does not require prior authorization
+
+## Stress Test - Nuclear (CPT 78451, 78452)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Symptoms (chest pain, dyspnea on exertion)
+- Cardiovascular risk factors
+- Inability to exercise (for pharmacologic stress)
+**Review Time:** 2-3 business days
+**Valid For:** 90 days from approval
+
+## Holter Monitor (CPT 93224, 93225, 93226)
+**Preauth Required:** Yes (for >48 hours)
+**Documentation Needed:**
+- Symptom diary requirements
+- Previous EKG findings
+- Clinical indication (palpitations, syncope, arrhythmia evaluation)
+**Review Time:** 1-2 business days
+**Valid For:** 30 days from approval

@@ -1,0 +1,51 @@
+# Radiology/Imaging Prior Authorization Rules
+
+## MRI - Lumbar Spine (CPT 72148, 72149, 72158)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Duration of symptoms (must be >6 weeks for non-trauma)
+- Conservative treatment attempted (PT, medications)
+- Red flag symptoms if present (weakness, bowel/bladder changes)
+- Recent plain film X-ray results
+**Review Time:** 2-3 business days
+**Valid For:** 90 days from approval
+
+## MRI - Brain (CPT 70551, 70552, 70553)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Clinical indication (headache characteristics, neurologic deficits)
+- Recent neurological exam findings
+- Prior imaging if available
+**Review Time:** 2-3 business days
+**Valid For:** 90 days from approval
+
+## CT Scan - Chest (CPT 71250, 71260, 71270)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Clinical indication (PE rule-out, lung nodule follow-up, etc.)
+- Recent chest X-ray results
+- Risk factors or symptoms
+**Review Time:** 1-2 business days
+**Valid For:** 60 days from approval
+
+## X-Ray - Standard (CPT 71046, 73000, 73510)
+**Preauth Required:** No
+**Notes:** Routine diagnostic X-rays do not require prior authorization
+
+## PET Scan (CPT 78811, 78812, 78813, 78814, 78815, 78816)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Cancer diagnosis with staging information
+- Prior imaging results (CT/MRI)
+- Treatment plan implications
+- Oncologist consultation notes
+**Review Time:** 3-5 business days
+**Valid For:** 30 days from approval
+
+## Ultrasound - Abdominal (CPT 76700, 76705)
+**Preauth Required:** No (diagnostic)
+**Preauth Required:** Yes (screening)
+**Documentation Needed for Screening:**
+- Risk factors for condition being screened
+- Family history if applicable
+**Review Time:** 1-2 business days

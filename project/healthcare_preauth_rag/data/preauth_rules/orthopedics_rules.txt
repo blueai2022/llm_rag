@@ -1,0 +1,56 @@
+# Orthopedic Prior Authorization Rules
+
+## Knee Replacement - Total (CPT 27447)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- X-rays showing severe arthritis (Kellgren-Lawrence Grade 3-4)
+- Conservative treatment documentation (minimum 3 months):
+  - Physical therapy records
+  - Trial of NSAIDs or other pain medications
+  - Intra-articular injections if applicable
+- Functional limitation assessment
+- BMI documentation (may require weight optimization if >40)
+**Review Time:** 5-7 business days
+**Valid For:** 180 days from approval
+
+## Hip Replacement - Total (CPT 27130)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- X-rays showing severe arthritis or AVN
+- Conservative treatment failure documentation (3-6 months)
+- Pain scale and functional limitation assessment
+- Medical clearance for surgery
+**Review Time:** 5-7 business days
+**Valid For:** 180 days from approval
+
+## Arthroscopy - Knee (CPT 29881, 29880)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- MRI results showing meniscal tear or other pathology
+- Failed conservative management (PT, injections)
+- Mechanical symptoms (locking, catching)
+**Review Time:** 3-5 business days
+**Valid For:** 90 days from approval
+
+## Spinal Fusion - Lumbar (CPT 22558, 22612, 22630)
+**Preauth Required:** Yes
+**Documentation Needed:**
+- Advanced imaging (MRI showing specific pathology)
+- Failed conservative treatment (minimum 6 months):
+  - Physical therapy
+  - Medications
+  - Epidural injections
+- Functional impairment documentation
+- Neurosurgeon or spine surgeon evaluation
+**Review Time:** 7-10 business days
+**Valid For:** 180 days from approval
+
+## Physical Therapy (CPT 97110, 97112, 97116)
+**Preauth Required:** Yes (after initial evaluation)
+**Documentation Needed:**
+- Diagnosis and treatment plan
+- Functional goals
+- Frequency and duration request
+**Review Time:** 1-2 business days
+**Valid For:** Number of visits approved (typically 6-12 visits)
+**Notes:** Initial PT evaluation (CPT 97161-97163) does not require preauth
